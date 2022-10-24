@@ -1,0 +1,15 @@
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\bin\Debug\net6.0\three_exercise.exe
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\bin\Debug\net6.0\three_exercise.deps.json
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\bin\Debug\net6.0\three_exercise.runtimeconfig.json
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\bin\Debug\net6.0\three_exercise.dll
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\bin\Debug\net6.0\three_exercise.pdb
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\obj\Debug\net6.0\three_exercise.csproj.AssemblyReference.cache
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\obj\Debug\net6.0\three_exercise.GeneratedMSBuildEditorConfig.editorconfig
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\obj\Debug\net6.0\three_exercise.AssemblyInfoInputs.cache
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\obj\Debug\net6.0\three_exercise.AssemblyInfo.cs
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\obj\Debug\net6.0\three_exercise.csproj.CoreCompileInputs.cache
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\obj\Debug\net6.0\three_exercise.dll
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\obj\Debug\net6.0\refint\three_exercise.dll
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\obj\Debug\net6.0\three_exercise.pdb
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\obj\Debug\net6.0\three_exercise.genruntimeconfig.cache
+A:\МДК 01.01\base_alg\three_exercise\three_exercise\obj\Debug\net6.0\ref\three_exercise.dll
